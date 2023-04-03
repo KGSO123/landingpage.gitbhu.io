@@ -39,10 +39,10 @@ ul{
 .navlink{
 	text-decoration:none;
 	color:white;
-	font-family: 'Brush Script MT', cursive;
+	font-family: Verdana;
 }
 .navlink:hover{
-	background-color:#FFCF12;
+	background-color:#61A5E9;
 }
 .description{
 	display:flex;
