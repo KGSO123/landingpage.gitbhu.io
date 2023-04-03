@@ -14,7 +14,6 @@ ul{
 .title_page{
 	background-color:#5C97DA;
 	margin-bottom:0;
-	overflow:auto;
 }
 .top{
 	background-color:black;
@@ -22,7 +21,7 @@ ul{
 	top:0;
 	height:30px;
 	text-align:center;
-	overflow:auto;
+	overflow:hidden;
 }
 .navbar{
 	list-style-type:none;
