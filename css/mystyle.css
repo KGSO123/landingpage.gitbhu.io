@@ -56,10 +56,10 @@ h1 {
     font-family: Cascadia Code;
 }
 .headers {
-    font-family: 'Book Antiqua';
+    font-family:Helvetica;
 	text-align:center;
-    background-color: #FAD231;
-    box-shadow: 5px 2px 8px #B2972C;
+   	background-color:#2E74BA;
+	box-shadow:5px 2px 8px #336BA4;
 	width:150px;
 	margin-bottom:0;
 }
@@ -82,7 +82,7 @@ hr {
 	width:200px;
 	margin-left:50px;
 	margin-right:50px;
-	border:5px solid #FFE166;
+	border:5px solid #336BA4;
 	
 }
 
@@ -91,7 +91,7 @@ hr {
 	width:200px;
 	margin-left:50px;
 	margin-right:50px;
-	border:5px solid #FFE166;
+	border:5px solid #336BA4;
 }
 
 .hobby2{
@@ -99,7 +99,7 @@ hr {
 	width:400px;
 	margin-left:50px;
 	margin-right:50px;
-	border:4px solid #FFE166;
+	border:4px solid #336BA4;
 }
 
 .description{

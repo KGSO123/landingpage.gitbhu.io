@@ -9,12 +9,11 @@ ul{
 	margin-top:0;
 }
 
+
 .title_page{
-	position:absolute;
 	background-color:#5C97DA;
 	margin-bottom:0;
-	overflow:hidden;
-
+	overflow:auto;
 }
 .top{
 	background-color:black;
@@ -22,9 +21,8 @@ ul{
 	top:0;
 	height:30px;
 	text-align:center;
+	overflow:auto;
 }
-
-
 .navbar{
 	list-style-type:none;
 	margin-top:0;
