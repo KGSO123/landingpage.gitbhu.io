@@ -1,0 +1,55 @@
+body{
+	background-color:#628DB8;
+	margin:0px;
+}
+h1{
+	text-align:center;
+	font-family:Cascadia Code;
+}
+h3{
+	text-align:center;
+	margin-bottom:0;
+	font-family:Cascadia Code;
+}
+ul{
+	margin-top:0;
+}
+#title{
+	margin-top:0;
+}
+
+
+.title_page{
+	background-color:#5C97DA;
+	margin-bottom:0;
+
+}
+.top{
+	background-color:black;
+	position:sticky;
+	top:0;
+	height:30px;
+	text-align:center;
+	overflow:hidden;
+}
+.navbar{
+	list-style-type:none;
+	margin-top:0;
+	text-align:center;
+	font-size:15px;
+}
+.navlist{
+	display:inline-block;
+	padding-top:4px;
+	margin-left:5px;
+	margin-right:5px;
+	
+}
+.navlink{
+	text-decoration:none;
+	color:white;
+	font-family: Verdana;
+}
+.navlink:hover{
+	background-color:#61A5E9;
+}
