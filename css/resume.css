@@ -71,12 +71,13 @@ ul{
 	
 }
 .resume_left{
-	width:70%;
-	margin-right:8.5px;
-	background-color:white;
-	float:right;
-	margin-bottom:20px;
-	border-radius:0px 40px 40px 0px;
+	float:left;
+	display:inline-block;
+	height:694px;
+	width:164px;
+	background-color:#4B8DD0;
+	border-radius:40px 0px 0px 40px;
+	margin-left:29px;
 }
 .resume_right{
 	width:70%;
