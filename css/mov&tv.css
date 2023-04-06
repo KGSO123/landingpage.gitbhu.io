@@ -122,7 +122,7 @@ body{
 	transition:1s;
 }
 #container2:hover{
-	background-image:url("../images/movies and tv/choices/tv_bg.png");
+	background-image:url("../images/movies and tv/choices/tv_bg.PNG");
 
 }
 #container2:hover > #icon_tv{
